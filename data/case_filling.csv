@@ -1,0 +1,76 @@
+case_id,case_title,plaintiff,defendant,date_filed
+C001,Roe v. Wade,Jane Roe,Henry Wade,1971
+C002,Stanley v. Illinois,"Peter Stanley, Sr. ",Illinois,1971
+C003,Giglio v. United States,John Giglio ,United States,1971
+C004,Reed v. Reed,Sally Reed,Cecil Reed,1971
+C005,Miller v. California,Marvin Miller,California,1971
+C006,Kleindienst v. Mandel,"Richard G. Kleindienst, Attorney General of the United States; William P. Rogers, Secretary of State","Ernest E. Mandel, et al.",1971
+C007,Sarno v. Illinois Crime Investigating Commission,Sarno,Illinois Crime Investigating Commission,1971
+C008,Argersinger v. Hamlin,Argersinger,Hamlin,1971
+C009,Eisenstadt v. Baird,Eisenstadt,Baird,1971
+C010,Gooding v. Wilson,Gooding,Wilson,1971
+C011,Furman v. Georgia,Furman,Georgia,1971
+C012,Moose Lodge No. 107 v. Irvis,Moose Lodge No. 107,Irvis,1971
+C013,Branzburg v. Hayes,Branzburg,Hayes,1971
+C014,Kirby v. Illinois,Thomas Kirby,Illinois,1971
+C015,Wisconsin v. Yoder,Wisconsin,Yoder,1971
+C016,Board of Regents of State Colleges v. Roth,Board of Regents of State Colleges,David Roth,1971
+C017,United States v. Mississippi Chemical Corporation,United States,"Mississippi Chemical Corporation, Costal Chemical Corp",1971
+C018,Santobello v. New York,Rudolph Santobello,State of New York,1971
+C019,Morrissey v. Brewer,Morrissey,Brewer,1971
+C020,Younger v. Gilmore,"Evelle J. Younger, et al.","Robert O. Gilmore, Jr., et al.",1971
+C021,Gravel v. United States,Gravel,United States,1971
+C022,Adams v. Williams,Frederick E. Adams,Robert Williams,1971
+C023,"Lloyd Corporation, Ltd. v. Tanner",Lloyd Corp. Ltd.,Donald Tanner et al.,1971
+C024,Police Department of the City of Chicago v. Mosley,Police Department of the City of Chicago,Mosley,1971
+C025,Chevron Oil Company v. Huson,Chevron Oil Company,Huson,1971
+C026,Flood v. Kuhn,Curtis C. Flood,"Bowie K. Kuhn, Commissioner of Baseball, et al.",1971
+C027,Gelbard v. United States,David Gelbard,United States,1971
+C028,Haines v. Kerner,Francis Haines,"Otto J. Kerner, former Governor of Illinois",1971
+C029,Kastigar v. United States,Kastigar,United States,1971
+C030,"D. H. Overmyer Company, Inc., of Ohio v. Frick","D. H. Overmyer Company, Inc., of Ohio",Frick,1971
+C031,Barker v. Wingo,Willie Mae Barker,"John W. Wingo, Warden",1971
+C032,Dunn v. Blumstein,Dunn,Blumstein,1971
+C033,United States v. Generes,United States,Allen H. Generes and Edna Generes,1971
+C034,Sierra Club v. Morton,Sierra Club,"Roger C. B. Morton, Secretary of the Interior of the United States",1971
+C035,United States v. United States District Court for the Eastern District of Michigan,United States,United States District Court for the Eastern District of Michigan,1971
+C036,Murel v. Baltimore City Criminal Court,"Albert Delanor Murel, et al.","Baltimore City Criminal Court, et al.",1971
+C037,Perry v. Sindermann,Charles R. Perry et al.,Robert P. Sindermann,1971
+C038,Schneckloth v. Bustamonte,Merle R. Schneckloth,Robert Clyde Bustamonte,1972
+C039,"Keyes v. School District No. 1, Denver, Colorado",Keyes,"School District No. 1, Denver, Colorado",1972
+C040,Frontiero v. Richardson,Sharron Frontiero,"Elliot Richardson, Secretary of Defense",1972
+C041,Mahan v. Howell,Mahan,Howell,1972
+C042,United States v. Ash,United States,Charles J. Ash Jr.,1972
+C043,Neil v. Biggers,"William S. Neil, Warden of the Tennessee State Penitentiary ",Archie Nathaniel Biggers,1972
+C044,In re Griffiths,Fre Le Poole Griffiths,State Bar Examining Committee of Connecticut,1972
+C045,Pittsburgh Press Company v. Pittsburgh Commission on Human Relations,Pittsburgh Press Company,Pittsburgh Commission on Human Relations,1972
+C046,Gottschalk v. Benson,Gottschalk,Benson,1972
+C047,United States v. Russell,United States,Russell,1972
+C048,Gagnon v. Scarpelli,John R Gagnon,Gerald Scarpello,1972
+C049,California v. LaRue,"California, et al.","Robert LaRue, et al.",1972
+C050,Committee for Public Education & Religious Liberty v. Nyquist,Committee for Public Education & Religious Liberty,"Ewald B. Nyquist, Commissioner of Education of New York",1972
+C051,Sugarman v. Dougall,"Jule M. Sugarman, Administrator, New York City Human Resources Administration et al.",Patrick McL. Dougall et al.,1972
+C052,Chambers v. Mississippi,Leon Chambers,Mississippi,1972
+C053,Lemon v. Kurtzman,Lemon,Kurtzman,1972
+C054,United States Department of Agriculture v. Moreno,U.S. Department of Agriculture et al.,Jacinta Moreno et al.,1972
+C055,Paris Adult Theatre I v. Slaton,Paris Adult Theatre I,Slaton,1972
+C056,McClanahan v. Arizona State Tax Commission,Rosalind McClanahan,Arizona State Tax Commission,1972
+C057,McDonnell Douglas Corporation v. Green,McDonnell Douglas Corporation,Percy Green,1972
+C058,San Antonio Independent School District v. Rodriguez,San Antonio Independent School District,Rodriguez,1972
+C059,United States v. Giordano,United States,Dominic Nicholas Giordano et al. ,1973
+C060,United States v. Nixon,United States,"Richard M. Nixon, et al.",1973
+C061,Milliken v. Bradley,Milliken,Bradley,1973
+C062,United States v. Matlock,United States,William Earl Matlock,1973
+C063,Communist Party of Indiana v. Whitcomb,"Communist Party of Indiana, et al.","Edgar D. Whitcomb, etc., at al.",1973
+C064,Wolff v. McDonnell,Wolff,McDonnell,1973
+C065,Geduldig v. Aiello,"Geduldig, Director, Department of Human Resources Development",Carolyn Aiello et al.,1973
+C066,United States v. Calandra,United States,John P. Calandra,1973
+C067,United States v. Richardson,United States,Richardson,1973
+C068,Jenkins v. Georgia,Jenkins,Georgia,1973
+C069,Cleveland Board of Education v. LaFleur,"Cleveland Board of Education, Chesterfield County School Board, Dr. Robert F. Kelly","Jo Carol LaFleur, Ann Elizabeth Nelson, Susan Cohen",1973
+C070,Kahn v. Shevin,"Mel Kahn, etc.","Robert L. Shevin, et al.",1973
+C071,Steffel v. Thompson,Richard Guy Steffel,"John R. Thompson, et al.",1973
+C072,Mitchell v. W. T. Grant Company,Mitchell,W. T. Grant Company,1973
+C073,Morton v. Mancari,"Rogers C. B. Morton, Secretary of the Interior et al.",C. R. Mancari et al.,1973
+C074,American Pipe & Construction Company v. Utah,"American Pipe and Construction Company, et al","State of Utah, et al",1973
+C075,Davis v. United States,Joseph Anthony Davis,United States,1973

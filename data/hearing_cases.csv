@@ -1,0 +1,21 @@
+case_id,hearing_date,hearing_time,judge_name,courtroom,status
+C001,5/1/2025,10:30,Judge Ahmad,3A,Scheduled
+C002,5/2/2025,11:00,Judge Lim,2B,Completed
+C003,5/2/2025,14:00,Judge Siti,4C,Pending
+C004,5/3/2025,9:30,Judge Ahmad,1A,Scheduled
+C005,5/1/2025,9:00,Judge Lim,3B,Rescheduled
+C006,5/3/2025,15:00,Judge Siti,5A,Scheduled
+C007,5/4/2025,10:00,Judge Ahmad,2C,Completed
+C008,5/4/2025,11:30,Judge Farah,1B,Pending
+C009,5/5/2025,9:00,Judge Lim,3D,Scheduled
+C010,5/5/2025,14:30,Judge Farah,4D,Pending
+C011,5/6/2025,9:15,Judge Amir,1A,Scheduled
+C012,5/6/2025,11:45,Judge Kumar,3B,Completed
+C013,5/7/2025,10:30,Judge Lim,5A,Scheduled
+C014,5/7/2025,13:00,Judge Siti,2C,Rescheduled
+C015,5/8/2025,9:00,Judge Ahmad,4C,Completed
+C016,5/8/2025,15:00,Judge Siti,1A,Scheduled
+C017,5/9/2025,10:30,Judge Ahmad,3A,Scheduled
+C018,5/9/2025,11:00,Judge Lim,2B,Completed
+C019,5/10/2025,9:45,Judge Siti,4C,Scheduled
+C020,5/10/2025,14:00,Judge Ahmad,1A,Scheduled

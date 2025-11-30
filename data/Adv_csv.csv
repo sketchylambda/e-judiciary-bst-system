@@ -1,0 +1,101 @@
+﻿evidence_id, case_id, evidence_type, date_submitted, description
+1, I680, ElectronicDevices, 2024-11-04, Submitted as official evidence.
+2, E872, ElectronicDevices, 2023-07-31, Uploaded to system database.
+3, D242, Photo, 2023-05-26, Submitted under court order.
+4, S259, ElectronicDevices, 2025-04-03, Provided by witness.
+5, E927, Excel, 2023-10-30, Requires further forensic analysis.
+6, Y738, Excel, 2024-08-19, Digitally verified item.
+7, J752, Word, 2026-10-20, Submitted under court order.
+8, R508, Word, 2023-10-15, Submitted as official evidence.
+9, C31, Photo, 2026-11-01, Submitted as official evidence.
+10, C337, Audio, 2025-02-14, Uploaded to system database.
+11, V974, ElectronicDevices, 2024-08-02, Submitted under court order.
+12, Q516, Audio, 2024-09-24, Provided by witness.
+13, X615, Document, 2025-09-20, Requires further forensic analysis.
+14, E343, Word, 2024-04-27, Submitted under court order.
+15, V561, Word, 2026-05-08, Submitted as official evidence.
+16, F843, Photo, 2023-03-30, Uploaded to system database.
+17, B987, Excel, 2025-05-05, Submitted as official evidence.
+18, E592, Photo, 2025-02-08, Submitted under court order.
+19, E466, Word, 2023-07-14, Provided by witness.
+20, V247, Word, 2026-02-17, Digitally verified item.
+21, F663, Document, 2024-10-28, Requires further forensic analysis.
+22, L269, Video, 2025-10-09, Digitally verified item.
+23, C822, Document, 2024-06-30, Uploaded to system database.
+24, E969, Photo, 2023-09-24, Digitally verified item.
+25, Y663, Audio, 2023-02-11, Provided by witness.
+26, I407, Audio, 2026-02-18, Provided by witness.
+27, J899, Video, 2023-09-27, Digitally verified item.
+28, G488, Photo, 2025-08-13, Provided by witness.
+29, D650, Photo, 2025-08-07, Collected from crime scene.
+30, A288, Video, 2023-11-17, Uploaded to system database.
+31, B558, Photo, 2024-08-20, Requires further forensic analysis.
+32, B553, Audio, 2023-07-09, Submitted as official evidence.
+33, D347, Document, 2025-01-10, Submitted under court order.
+34, J819, Photo, 2025-12-10, Submitted under court order.
+35, H592, ElectronicDevices, 2026-11-14, Provided by witness.
+36, H884, Photo, 2024-05-10, Submitted under court order.
+37, G728, Document, 2025-10-16, Uploaded to system database.
+38, Z407, Video, 2024-11-10, Provided by witness.
+39, J865, Audio, 2026-06-23, Submitted under court order.
+40, Z99, Video, 2025-05-12, Provided by witness.
+41, X140, Video, 2023-02-03, Requires further forensic analysis.
+42, R310, Document, 2025-10-03, Uploaded to system database.
+43, I88, Excel, 2023-09-20, Collected from crime scene.
+44, C169, Document, 2026-06-05, Provided by witness.
+45, C385, Photo, 2023-11-02, Requires further forensic analysis.
+46, S740, ElectronicDevices, 2023-05-06, Digitally verified item.
+47, U167, Audio, 2023-02-06, Submitted as official evidence.
+48, S365, Document, 2023-10-10, Digitally verified item.
+49, T461, Excel, 2024-12-09, Uploaded to system database.
+50, K57, Video, 2026-09-08, Requires further forensic analysis.
+51, F595, ElectronicDevices, 2024-09-13, Requires further forensic analysis.
+52, Q739, Photo, 2023-12-15, Requires further forensic analysis.
+53, N128, Word, 2024-06-25, Uploaded to system database.
+54, G239, Document, 2023-04-23, Uploaded to system database.
+55, T547, Excel, 2026-09-14, Submitted under court order.
+56, X201, Document, 2026-12-04, Submitted as official evidence.
+57, Z485, Video, 2026-04-23, Submitted under court order.
+58, U409, Word, 2026-04-08, Digitally verified item.
+59, V654, Word, 2023-03-21, Collected from crime scene.
+60, A415, Video, 2023-06-17, Requires further forensic analysis.
+61, L675, Word, 2023-06-03, Submitted under court order.
+62, V335, Word, 2023-11-27, Requires further forensic analysis.
+63, Q244, Photo, 2026-12-25, Submitted under court order.
+64, G472, ElectronicDevices, 2023-11-11, Digitally verified item.
+65, M525, Word, 2024-09-01, Provided by witness.
+66, J580, Document, 2024-05-05, Provided by witness.
+67, Y821, Video, 2026-10-25, Collected from crime scene.
+68, X851, Video, 2026-05-16, Submitted under court order.
+69, I243, Word, 2025-11-26, Submitted under court order.
+70, B446, Word, 2026-08-02, Submitted as official evidence.
+71, B783, ElectronicDevices, 2025-01-31, Uploaded to system database.
+72, B944, Document, 2024-02-24, Provided by witness.
+73, A194, Word, 2024-11-07, Collected from crime scene.
+74, Y742, Audio, 2024-05-16, Requires further forensic analysis.
+75, C564, ElectronicDevices, 2025-10-24, Submitted under court order.
+76, R642, Audio, 2024-12-27, Submitted under court order.
+77, E726, Photo, 2024-06-07, Submitted under court order.
+78, G498, ElectronicDevices, 2023-12-17, Provided by witness.
+79, V433, Excel, 2023-01-19, Submitted under court order.
+80, Q711, Document, 2026-09-02, Provided by witness.
+81, Y808, Excel, 2025-06-25, Digitally verified item.
+82, H190, Excel, 2026-07-13, Uploaded to system database.
+83, U74, Audio, 2025-06-29, Collected from crime scene.
+84, L176, Word, 2024-01-14, Requires further forensic analysis.
+85, T110, Excel, 2024-01-28, Requires further forensic analysis.
+86, P737, Photo, 2025-04-14, Submitted as official evidence.
+87, N569, Excel, 2024-12-29, Digitally verified item.
+88, Q445, ElectronicDevices, 2026-02-08, Submitted under court order.
+89, Y530, ElectronicDevices, 2024-02-28, Uploaded to system database.
+90, X914, Audio, 2023-10-16, Submitted under court order.
+91, V652, Audio, 2024-06-16, Digitally verified item.
+92, M994, Photo, 2026-01-13, Uploaded to system database.
+93, H92, Excel, 2026-02-16, Submitted under court order.
+94, X332, Excel, 2024-03-01, Collected from crime scene.
+95, H788, Video, 2024-03-10, Submitted as official evidence.
+96, H521, Excel, 2025-11-05, Provided by witness.
+97, U899, ElectronicDevices, 2023-05-13, Provided by witness.
+98, K715, Photo, 2026-09-01, Provided by witness.
+99, A993, ElectronicDevices, 2023-03-29, Collected from crime scene.
+100, Z51, Audio, 2024-09-04, Collected from crime scene.
